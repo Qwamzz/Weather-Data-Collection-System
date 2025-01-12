@@ -1,7 +1,3 @@
-I will rewrite the provided project description and include additional details, ensuring the text is natural and not AI-detectable. I'll also create placeholders for images that can be added during deployment. Here's the rewritten README:
-
----
-
 # Weather Data Collection System
 
 ## Project Overview
