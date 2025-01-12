@@ -47,7 +47,7 @@ weather-dashboard/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ShaeInTheCloud/30days-weather-dashboard.git
+git clone https://github.com/Qwamzz/Weather-Data-Collection-System.git
 cd 30days-weather-dashboard
 ```
 
