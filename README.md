@@ -4,6 +4,8 @@
 
 This project demonstrates the development of a weather data collection system by integrating various DevOps and cloud technologies. The system fetches real-time weather information from the OpenWeather API, processes the data, and securely stores it in AWS S3 for historical tracking. The project also emphasizes Python programming, infrastructure management, and automation.
 
+![image](https://github.com/user-attachments/assets/b5c58d78-a2a9-4568-bf31-3251d11636ed)
+
 ## Key Features
 
 - **Real-Time Weather Data:** Fetches current weather conditions for multiple cities.
