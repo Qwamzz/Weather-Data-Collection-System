@@ -50,7 +50,7 @@ weather-dashboard/
 
 ```bash
 git clone https://github.com/Qwamzz/Weather-Data-Collection-System.git
-cd 30days-weather-dashboard
+cd Weather-Data-Collection-System
 ```
 
 ### 2. Install Dependencies
